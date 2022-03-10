@@ -1,0 +1,20 @@
+PODS:
+  - FSPagerView (0.8.3)
+  - SideMenuSwift (2.0.9)
+
+DEPENDENCIES:
+  - FSPagerView
+  - SideMenuSwift
+
+SPEC REPOS:
+  trunk:
+    - FSPagerView
+    - SideMenuSwift
+
+SPEC CHECKSUMS:
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  SideMenuSwift: 39f1922e225da4aaa8b16591037a929defe960c9
+
+PODFILE CHECKSUM: 0ada475bc89aed1a5b424194f1ced2b1498a347b
+
+COCOAPODS: 1.11.2
